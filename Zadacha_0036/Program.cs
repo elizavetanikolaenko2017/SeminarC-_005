@@ -27,7 +27,3 @@ for (int i = 0; i <array.Length; i++)
    } 
 }
 System.Console.WriteLine($"Сумма нечётных чисел в данном массиве: {OddnumberSum}");
-
-
-
-
