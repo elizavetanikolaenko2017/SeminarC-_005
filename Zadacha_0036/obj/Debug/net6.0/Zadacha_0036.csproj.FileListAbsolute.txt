@@ -1,0 +1,15 @@
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.csproj.AssemblyReference.cache
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.AssemblyInfoInputs.cache
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.AssemblyInfo.cs
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.csproj.CoreCompileInputs.cache
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\bin\Debug\net6.0\Zadacha_0036.exe
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\bin\Debug\net6.0\Zadacha_0036.deps.json
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\bin\Debug\net6.0\Zadacha_0036.runtimeconfig.json
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\bin\Debug\net6.0\Zadacha_0036.dll
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\bin\Debug\net6.0\Zadacha_0036.pdb
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.dll
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\refint\Zadacha_0036.dll
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.pdb
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\Zadacha_0036.genruntimeconfig.cache
+C:\Users\elizaveta\CSeminar_005\Zadacha_0036\obj\Debug\net6.0\ref\Zadacha_0036.dll
